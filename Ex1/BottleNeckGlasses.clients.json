@@ -1,0 +1,19 @@
+[
+  {
+    "_id": "680753d7a1a5295de9b71236",
+    "name": "Marta Martínez",
+    "address": {
+      "street": "Passeig de Gràcia",
+      "number": 123,
+      "floor": 3,
+      "door": "B",
+      "city": "Barcelona",
+      "postal_code": "08008",
+      "country": "Spain"
+    },
+    "phone": "600 123 456",
+    "email": "marta@email.com",
+    "register_date": "2025-04-08T15:30:00.000Z",
+    "referred_by": null
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "680761c8a1a5295de9b7123a",
+    "date": "2025-04-21T10:45:00.000Z",
+    "client_id": "680753d7a1a5295de9b71236",
+    "employee_id": "68076129a1a5295de9b71239",
+    "glasses_id": "68075499a1a5295de9b71238",
+    "prescription": {
+      "left_eye": -2.3,
+      "right_eye": -2
+    }
+  }
+]

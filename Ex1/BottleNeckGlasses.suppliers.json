@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "6807542ca1a5295de9b71237",
+    "name": "Meritxell",
+    "address": {
+      "street": "Right Street",
+      "number": 123,
+      "floor": 2,
+      "door": "B",
+      "city": "Barcelona",
+      "postal_code": "08120",
+      "country": "Spain"
+    },
+    "phone": "678921235",
+    "fax": "687921253",
+    "id_number": "12345678A",
+    "email": "email@email.com",
+    "register_date": "2023-09-23T00:00:00.000Z"
+  }
+]
